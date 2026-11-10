@@ -304,7 +304,7 @@ flowchart TB
 ![Connector View 3](images/connector_3.png)
 
 
-## 7. Khả năng ứng dụng thực tế (Practical Applications)
+## 7. Khả năng ứng dụng thực tế 
 
 Hệ thống có thể được triển khai trong nhiều môi trường khác nhau nhờ khả năng kết nối không dây đa giao thức và thiết kế phần cứng linh hoạt:
 
@@ -314,7 +314,7 @@ Hệ thống có thể được triển khai trong nhiều môi trường khác 
 - **Mở rộng hệ thống IoT:** Tận dụng nền tảng phần cứng đa chế độ để phát triển thêm các ứng dụng giám sát và thu thập dữ liệu khác.
 
 
-## 8. Kế hoạch phát triển tương lai (Future Development)
+## 8. Kế hoạch phát triển tương lai 
 
 - **Cập nhật firmware từ xa (FOTA):** Phát triển khả năng cập nhật firmware cho Gateway thông qua Internet và cho phép Gateway phân phối firmware đến các Sensor Node thông qua LoRa.
 - **Tối ưu năng lượng:** Nghiên cứu các chế độ tiết kiệm năng lượng sâu hơn nhằm kéo dài thời gian hoạt động khi sử dụng pin.
